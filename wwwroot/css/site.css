@@ -24,6 +24,13 @@ a {
   border-color: #1861ac;
 }
 
+
+/*Custom header css*/
+h1 {
+    color: black
+}
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
